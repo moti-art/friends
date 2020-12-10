@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/test', (req,res)=>{
-    res.send("works")
+    res.send("works babe")
 })
 app.listen(port, () => {
    console.log('Server is up!');
