@@ -1,6 +1,5 @@
 import './App.css';
 import React, { useState , useEffect} from 'react';
-import axios from 'axios'
 
 
 export default function App() {
@@ -23,12 +22,7 @@ export default function App() {
     <div className="App">
       <h1>hallo version 2 !!! mordi levi mannnnnnn</h1>
       <h2>boom</h2>
-      {/* <button onClick={didi}>click</button> */}
-      {/* {details.map(element=>element)} */}
-      {/* {details.map((detail,i) => (
-                <div key={i} detail={details.budget}></div>
-            ))} */}
-            {details.budget}
+    
     </div>
   );
 }
