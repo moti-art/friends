@@ -20,7 +20,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>hallo version 2 !!! mordi levi mannnnnnn</h1>
+      <h1>fuck you all</h1>
       <h2>boom</h2>
     
     </div>
